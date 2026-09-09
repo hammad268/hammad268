@@ -20,8 +20,6 @@ $ cat about.txt
 BS Artificial Intelligence student in Pakistan, building the space between
 machine learning, automation and full-stack web apps.
 
-- 🔭 Currently building **Meridian** (a full-stack Learning Management System)
-- 🌐 Also shipping a Three.js museum-style showcase site
 - 🧠 Learning: Deep Learning, Full-Stack AI, n8n workflow automation
 - ⚡ Fun fact: I'd rather break something learning it than never build it
 
