@@ -2,8 +2,8 @@
 
 <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=560&lines=Hammad+Kamran;BS+AI+Student+%40+Pak-Austria+Fachhochschule;Building+ML+%2B+Automation+%2B+Web+Apps;Currently%3A+Full-Stack+AI+Systems" alt="typing banner" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hammad-kamran-429a97340/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hammadkamran450@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.vercel.app)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/hammad268)
 
@@ -20,9 +20,9 @@ $ cat about.txt
 BS Artificial Intelligence student in Pakistan, building the space between
 machine learning, automation and full-stack web apps.
 
-- 🔭 Currently building **Meridian** (a full-stack Learning Management System)
-- 🌐 Also shipping a Three.js museum-style showcase site
-- 🧠 Learning: Deep Learning, Full-Stack AI, n8n workflow automation
+- 🧹 Learning: Data Cleaning, NumPy, Pandas, Seaborn, Scikit-learn
+- 🤖 Learning: Machine Learning — Supervised & Unsupervised Learning
+- ⚙️ Also into AI Automation with n8n and API integrations
 - ⚡ Fun fact: I'd rather break something learning it than never build it
 
 ---
@@ -35,6 +35,15 @@ machine learning, automation and full-stack web apps.
 
 **AI / ML:** `NumPy` `Pandas` `Scikit-learn` `Matplotlib`
 **Automation:** `n8n` `API Integration` `Google Colab`
+
+---
+
+## `~/` skill radar
+
+<div align="center">
+<img width="48%" src="https://quickchart.io/chart?bkg=%230d1117&c=%7B%22type%22%3A%20%22radar%22%2C%20%22data%22%3A%20%7B%22labels%22%3A%20%5B%22Python%22%2C%20%22Machine%20Learning%22%2C%20%22Data%20Analysis%22%2C%20%22Automation%20%28n8n%29%22%2C%20%22Web%20Dev%22%2C%20%22Git%2FGitHub%22%2C%20%22Algorithms%2FDSA%22%5D%2C%20%22datasets%22%3A%20%5B%7B%22label%22%3A%20%22Skill%20Radar%22%2C%20%22data%22%3A%20%5B90%2C%2075%2C%2080%2C%2070%2C%2060%2C%2085%2C%2075%5D%2C%20%22backgroundColor%22%3A%20%22rgba%2857%2C211%2C83%2C0.25%29%22%2C%20%22borderColor%22%3A%20%22%2339D353%22%2C%20%22pointBackgroundColor%22%3A%20%22%2339D353%22%7D%5D%7D%2C%20%22options%22%3A%20%7B%22legend%22%3A%20%7B%22display%22%3A%20false%7D%2C%20%22title%22%3A%20%7B%22display%22%3A%20true%2C%20%22text%22%3A%20%22Skill%20Radar%22%2C%20%22fontColor%22%3A%20%22%23c9d1d9%22%7D%2C%20%22scale%22%3A%20%7B%22ticks%22%3A%20%7B%22display%22%3A%20false%2C%20%22beginAtZero%22%3A%20true%2C%20%22max%22%3A%20100%7D%2C%20%22pointLabels%22%3A%20%7B%22fontColor%22%3A%20%22%23c9d1d9%22%7D%2C%20%22gridLines%22%3A%20%7B%22color%22%3A%20%22rgba%28255%2C255%2C255%2C0.1%29%22%7D%2C%20%22angleLines%22%3A%20%7B%22color%22%3A%20%22rgba%28255%2C255%2C255%2C0.1%29%22%7D%7D%7D%7D" alt="skill radar" />
+<img width="48%" src="https://quickchart.io/chart?bkg=%230d1117&c=%7B%22type%22%3A%20%22radar%22%2C%20%22data%22%3A%20%7B%22labels%22%3A%20%5B%22Python%22%2C%20%22HTML%22%2C%20%22JavaScript%22%2C%20%22CSS%22%5D%2C%20%22datasets%22%3A%20%5B%7B%22label%22%3A%20%22hammad268%20-%20language%20mix%22%2C%20%22data%22%3A%20%5B70%2C%2020%2C%2015%2C%2010%5D%2C%20%22backgroundColor%22%3A%20%22rgba%2857%2C211%2C83%2C0.25%29%22%2C%20%22borderColor%22%3A%20%22%2339D353%22%2C%20%22pointBackgroundColor%22%3A%20%22%2339D353%22%7D%5D%7D%2C%20%22options%22%3A%20%7B%22legend%22%3A%20%7B%22display%22%3A%20false%7D%2C%20%22title%22%3A%20%7B%22display%22%3A%20true%2C%20%22text%22%3A%20%22hammad268%20-%20language%20mix%22%2C%20%22fontColor%22%3A%20%22%23c9d1d9%22%7D%2C%20%22scale%22%3A%20%7B%22ticks%22%3A%20%7B%22display%22%3A%20false%2C%20%22beginAtZero%22%3A%20true%7D%2C%20%22pointLabels%22%3A%20%7B%22fontColor%22%3A%20%22%23c9d1d9%22%7D%2C%20%22gridLines%22%3A%20%7B%22color%22%3A%20%22rgba%28255%2C255%2C255%2C0.1%29%22%7D%2C%20%22angleLines%22%3A%20%7B%22color%22%3A%20%22rgba%28255%2C255%2C255%2C0.1%29%22%7D%7D%7D%7D" alt="language mix radar" />
+</div>
 
 ---
 
@@ -71,8 +80,6 @@ machine learning, automation and full-stack web apps.
 
 | Project | Description | Stack |
 |---|---|---|
-| **[Meridian LMS](https://github.com/hammad268)** | Full-stack Learning Management System | `Full-Stack` |
-| **[Three.js Showcase](https://github.com/hammad268)** | Museum-style 3D showcase site built around a 3D scan | `Three.js` `WebGL` |
 | **[REX — AI Social Poster](https://github.com/hammad268/rex-ai-social-poster)** | AI-powered social automation via n8n workflows | `HTML` `CSS` `JS` `n8n` `AI` |
 | **[Student Academic Risk Predictor](https://github.com/hammad268/student-academic-risk-predictor)** | ML app predicting academic risk with an SVM model | `Python` `Scikit-learn` `Streamlit` |
 | **[Minimum Spanning Tree Analysis](https://github.com/hammad268/minimum-spanning-tree-analysis)** | Kruskal's vs Prim's, with visualization & benchmarking | `Python` `Algorithms` |
@@ -83,10 +90,11 @@ machine learning, automation and full-stack web apps.
 
 | Area | Progress |
 |---|---|
-| Machine Learning | ████████████████░░░░ |
-| Full-Stack AI | ██████████████░░░░░░ |
-| Deep Learning | ████████████░░░░░░░░ |
-| 3D / WebGL (Three.js) | ██████████░░░░░░░░░░ |
+| Machine Learning (Supervised & Unsupervised) | ████████████████░░░░ |
+| Data Cleaning | ██████████████░░░░░░ |
+| Pandas / NumPy | ██████████████████░░ |
+| Seaborn | ████████████░░░░░░░░ |
+| Scikit-learn | ██████████████░░░░░░ |
 | Workflow Automation (n8n) | ████████████████░░░░ |
 
 > Building. Breaking. Learning. Rebuilding.
