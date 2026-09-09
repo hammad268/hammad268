@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/hammad268/hammad268/main/assets/Main-removebg-preview.png" width="360" alt="portrait" />
-
 <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=560&lines=Hammad+Kamran;BS+AI+Student+%40+Pak-Austria+Fachhochschule;Building+ML+%2B+Automation+%2B+Web+Apps;Currently%3A+Full-Stack+AI+Systems" alt="typing banner" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hammad-kamran-429a97340/)
