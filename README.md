@@ -66,8 +66,8 @@ machine learning, automation and full-stack web apps.
 ## `~/` the numbers
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=hammad268&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=39D353&icon_color=39D353" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hammad268&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=39D353" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=hammad268&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=39D353&icon_color=39D353" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=hammad268&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=39D353" />
 </div>
 
 <div align="center">
