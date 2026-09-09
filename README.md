@@ -80,22 +80,17 @@ machine learning, automation and full-stack web apps.
 
 | Project | Description | Stack |
 |---|---|---|
-| **[REX — AI Social Poster](https://github.com/hammad268/rex-ai-social-poster)** | AI-powered social automation via n8n workflows | `HTML` `CSS` `JS` `n8n` `AI` |
-| **[Student Academic Risk Predictor](https://github.com/hammad268/student-academic-risk-predictor)** | ML app predicting academic risk with an SVM model | `Python` `Scikit-learn` `Streamlit` |
-| **[Minimum Spanning Tree Analysis](https://github.com/hammad268/minimum-spanning-tree-analysis)** | Kruskal's vs Prim's, with visualization & benchmarking | `Python` `Algorithms` |
+| **[REX — AI Social Poster](https://github.com/hammad268/rex-ai-social-poster)** | AI-powered social automation via n8n workflows | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white) |
+| **[Student Academic Risk Predictor](https://github.com/hammad268/student-academic-risk-predictor)** | ML app predicting academic risk with an SVM model | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) |
+| **[Minimum Spanning Tree Analysis](https://github.com/hammad268/minimum-spanning-tree-analysis)** | Kruskal's vs Prim's, with visualization & benchmarking | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Algorithms](https://img.shields.io/badge/Algorithms-39D353?style=flat-square&logo=graphql&logoColor=white) |
 
 ---
 
 ## `~/` currently learning
 
-| Area | Progress |
-|---|---|
-| Machine Learning (Supervised & Unsupervised) | ████████████████░░░░ |
-| Data Cleaning | ██████████████░░░░░░ |
-| Pandas / NumPy | ██████████████████░░ |
-| Seaborn | ████████████░░░░░░░░ |
-| Scikit-learn | ██████████████░░░░░░ |
-| Workflow Automation (n8n) | ████████████████░░░░ |
+<div align="center">
+<img src="https://raw.githubusercontent.com/hammad268/hammad268/main/assets/learning-progress.svg" alt="learning progress" />
+</div>
 
 > Building. Breaking. Learning. Rebuilding.
 
