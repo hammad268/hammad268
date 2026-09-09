@@ -20,6 +20,8 @@ $ cat about.txt
 BS Artificial Intelligence student in Pakistan, building the space between
 machine learning, automation and full-stack web apps.
 
+- Learning : Data Cleaning , Numppy, Pandas, Seaborn , Scikit
+- Learning : Machine Learning, Supervised and Unsupervised Learning
 - 🧠 Learning: Deep Learning, Full-Stack AI, n8n workflow automation
 - ⚡ Fun fact: I'd rather break something learning it than never build it
 
@@ -41,7 +43,7 @@ machine learning, automation and full-stack web apps.
 <div align="center">
 
 <!-- snake animation: see workflow file, points to your own repo output branch -->
-<img src="https://raw.githubusercontent.com/hammad268/hammad268/output/github-contribution-grid-snake.svg" alt="contribution snake" />
+<img src="https://raw.githubusercontent.com/hammad268/hammad268/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
 
 </div>
 
